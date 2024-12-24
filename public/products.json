@@ -1,0 +1,9 @@
+[
+    { "id": "1", "name": "Coche", "category": "vehiculos", "price": 50000, "description": "Un coche rápido" },
+    { "id": "2", "name": "Camisa", "category": "ropa", "price": 20, "description": "Camisa de algodón" },
+    { "id": "3", "name": "Remera", "category": "ropa", "price": 30, "description": "Remera de algodón" },
+    { "id": "4", "name": "Coche 2", "category": "vehiculos", "price": 33330, "description": "Otro auto mas rapido" },
+    { "id": "5", "name": "Pulsera", "category": "accesorios", "price": 78, "description": "Pulsera de oro 18k" },
+    { "id": "6", "name": "Collar", "category": "accesorios", "price": 65, "description": "Collar de diamantes" }
+  ]
+  
